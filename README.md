@@ -13,6 +13,6 @@ for my program.
 
 ## Running
 
-'''
+```
 python pi.py
-'''
+```
